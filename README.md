@@ -1,2 +1,6 @@
 # assignment-1
-这是我的第一个github存储库！
+`X="apples,bananas,oranges,pancakes"`  
+```bash
+> echo $x | sed 's/,/\n/g' | sort -r
+```
+
